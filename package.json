@@ -1,0 +1,25 @@
+{
+  "name": "rumo-dev",
+  "version": "0.1.0",
+  "description": "A test environment with user accounts, meeting arrangement, image handling, personal site and forwarding.",
+  "main": "app.js",
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1",
+    "mustache": "^4.0.1",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "Rumo Ra",
+  "license": "GPL-3.0-only",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItsRumo/a-webserver.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ItsRumo/a-webserver/issues"
+  },
+  "homepage": "https://github.com/ItsRumo/a-webserver#readme"
+}
